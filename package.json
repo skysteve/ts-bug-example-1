@@ -1,0 +1,22 @@
+{
+  "name": "ts-bug-example-1",
+  "version": "1.0.0",
+  "description": "Example Repo to replicate Typescript Bug",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skysteve/ts-bug-example-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skysteve/ts-bug-example-1/issues"
+  },
+  "homepage": "https://github.com/skysteve/ts-bug-example-1#readme",
+  "devDependencies": {
+    "typescript": "^2.0.3"
+  }
+}
